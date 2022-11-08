@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">RegexValidator</string>
+    <string name="validate_button">Validate</string>
+    <string name="hint_text">Entry text to validate...</string>
 </resources>
